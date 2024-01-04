@@ -9,5 +9,5 @@ This project introduces a prototype model for a natural language queryable data 
 
 ## Documentation
 
-For detailed information, refer to the [Project Documentation]([link-to-your-pdf-document.pdf](https://drive.google.com/file/d/1-gWoi8Nm7aMHsjHRmRbDUL2gZkSNvsSP/view?usp=drive_link)https://drive.google.com/file/d/1-gWoi8Nm7aMHsjHRmRbDUL2gZkSNvsSP/view?usp=drive_link).
+For detailed information, refer to the [Project Documentation](https://drive.google.com/file/d/1-gWoi8Nm7aMHsjHRmRbDUL2gZkSNvsSP/view?usp=drive_link).
 
