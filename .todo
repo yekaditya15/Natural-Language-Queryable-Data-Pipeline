@@ -1,0 +1,34 @@
+Scraper (conditions):
+    Conditional crawling
+    Distribute
+        Randomised IP
+        Download html
+    Return html
+
+Parser (html):
+    Remove scripts and styles
+    Merge nested DOM containers
+    Keep existing tables
+    Remove non english identifiers
+    Store in a well defined schema
+    Return parsed
+
+Information Extraction & Retrieval(parsed html, query):
+    Parse query
+    Understand query:
+        Synonyms
+        Match with world knowledge
+        Reduce query to a minimal representation Q
+        Generate output format schema S from query
+    
+    Convert keys in parsed html to a minimal representation K
+
+    Analyse:
+        Scan any synonyms exist in the Q and K and mark it
+        Deduce patterns from known output and compare with the parsed html
+        Compare the keys with world knowledge
+        Scan the full parsed html for Q with world knowledge
+    Output:
+        Convert data to schema S
+        Convert to given file format/stream
+        Return file/stream

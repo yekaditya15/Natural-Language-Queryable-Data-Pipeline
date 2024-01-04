@@ -1,0 +1,20 @@
+data = [
+    {
+        "name": "Iphone 13",
+        "a46768b24f1b318283de164b5da6f3c0": "Ecelllect mobile with 13mp camera and A13 Processor",
+        "price": "$799",
+        "amount": "$799"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "a46768b24f1b318283de164b5da6f3c0": "Powerful smartphone with a 64MP camera and Exynos 2100 Processor",
+        "price": "$899",
+        "amount": "$899"
+    },
+    {
+        "name": "Google Pixel 6",
+        "a54768b24f1b318283de164b5da6f3c0": "Cutting-edge mobile featuring a 16MP camera and Google Tensor Processor",
+        "price": "$749",
+        "amount": "$749"
+    }
+]
